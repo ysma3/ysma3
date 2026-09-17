@@ -1,4 +1,4 @@
-## smail@github:~$ top 
+## smail@github:~$ ls 
 
 Hi there, I'm a computer science student passionate about infrastructure and code.
 
