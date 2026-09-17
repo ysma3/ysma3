@@ -1,6 +1,6 @@
 ## smail@github:~$ top 
 
-Hi there, I'm a computer science student passionate about coding and new technologies.
+Hi there, I'm a computer science student passionate about infrastructure and code.
 
 ### ~/PublicProjects
 
